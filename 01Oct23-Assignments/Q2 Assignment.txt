@@ -1,0 +1,55 @@
+Q2. Explain the role of the following key properties in the Flexbox
+layout model.
+
+1. justify-content: 
+		justify-content property defines how the browser 
+distributes space between and around content items along the main-axis
+ of a flex container, and the inline axis of a grid container 
+
+Properties:
+
+justify-content: start; ||| justify-content: center; ||| 
+justify-content: space-between; ||| justify-content: space-around;
+||| justify-content: space-evenly; 
+
+2. align-items: 
+		The align-items property is related to CSS layout.
+ It effects how elements are aligned both in Flexbox and Grid 
+layouts.
+
+Properties:
+
+align-items: stretch; ||| align-items: center; ||| align-items: start;
+align-items: end;
+
+3. gap:
+
+	The gap CSS shorthand property sets the gaps (gutters) 
+between rows and columns.
+
+Properties:
+
+gap: 10%; ||| gap: 1em; ||| gap: 10px 20px; |||
+gap: calc(20px + 10%);
+
+4. flex-direction:
+	
+	The flex-direction property specifies the direction of 
+the flexible items.
+
+Properties:
+
+flex-direction: row;||| flex-direction: row-reverse;||| 
+flex-direction: column; ||| flex-direction: column-reverse;
+
+5. flex-wrap:
+	
+	The flex-wrap CSS property sets whether flex items 
+are forced onto one line or can wrap onto multiple lines. 
+If wrapping is allowed, it sets the direction that lines 
+are stacked.
+
+Properties:
+flex-wrap: nowrap; ||| flex-wrap: wrap; ||| 
+flex-wrap: wrap-reverse;
+

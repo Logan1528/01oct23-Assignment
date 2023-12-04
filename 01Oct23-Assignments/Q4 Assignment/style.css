@@ -1,0 +1,33 @@
+
+
+.card{
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.539);
+    transition: 0.3s;
+    width: 13%;
+    padding: 25px 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 5%;
+}
+
+.blue {
+    background-color: rgb(23, 23, 83);
+    color: aliceblue;
+}
+.blue button{
+    background-color: aliceblue;
+    color: black;
+}
+
+button{
+    color: rgb(231, 231, 248);
+    background-color: rgb(34, 34, 112);
+    padding: 10px;
+    margin: 4px 2px;
+    font-size: 15px;
+    border-radius: 15px;
+}
+
+.one{
+    display: flex;
+    flex-flow: wrap;
+}

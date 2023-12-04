@@ -1,0 +1,13 @@
+body{
+    height: 400px;
+    width: 1500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.green{
+    background-color: rgb(62, 234, 62);
+    width: 300px;
+    height: 300px;
+}
